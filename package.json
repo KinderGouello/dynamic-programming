@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/KinderGouello/dynamic-programming#readme",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^24.1.0"
   }
 }
